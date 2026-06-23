@@ -275,7 +275,6 @@ elif page == "3. Biomass Burning Analysis":
             x="FireCount",
             y="HCHO (mol/m²)",
             hover_name="Month",
-            trendline="ols",
             title="Mathematical Pearson Projections"
         )
         fig_scat.update_traces(marker=dict(size=14, color="crimson"))
