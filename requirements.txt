@@ -1,0 +1,17 @@
+# Python dependencies for the Geospatial AQI and HCHO Analytics Project
+streamlit>=1.30.0
+streamlit-folium>=0.15.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+plotly>=5.18.0
+folium>=0.16.0
+geopandas>=0.14.0
+xarray>=2023.11.0
+rasterio>=1.3.9
+matplotlib>=3.8.0
+shapely>=2.0.2
+earthengine-api>=0.1.385
+requests>=2.31.0
+python-dotenv>=1.0.0

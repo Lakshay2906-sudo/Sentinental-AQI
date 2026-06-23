@@ -1,0 +1,6 @@
+{
+  "name": "GeoAQI India",
+  "description": "Satellite-derived Surface AQI monitoring, HCHO hotspot detection, biomass burning correlation, and AI-enabled pollution alerts for India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
